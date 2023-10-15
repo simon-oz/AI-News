@@ -1,9 +1,9 @@
 # AI-News
 Welcome to the Weekly-AI-news!
 I mainly focuses more on Generative AI, LLMs and the related, so may miss import AI news in other areas.
+
 **08 Oct 2023**
   1.  29 Sep, according to [Futurism](https://futurism.com/sam-altman-replace-normal-people-ai), OpenAI CEO Sam Altman is attracting attention for his use of the term "median human" in discussing artificial general intelligence (AGI). Altman envisions AGI with intelligence equivalent to a "median human co-worker." Critics find this terminology concerning, suggesting it implies replacing normal human jobs with AGI. Altman's previous comments on AGI's ability to perform various tasks further fuel concerns about job displacement. Critics argue that equating AI performance to human intelligence oversimplifies complex aspects of human cognition and raises ethical questions about assigning agency and comprehension to mechanistic models. Despite Altman's ambitions to use AI for societal benefit, his conceptualization of humanity as "median figures" provokes debate and skepticism about the impact of AGI on employment and the human experience.
-
 
 
   2.  29 Sep, Microsoft released its [GPT-4V evaluation report](https://browse.arxiv.org/pdf/2309.17421.pdf) “The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)”. The report focuses on the intriguing tasks that GPT-4V can perform, containing test samples to probe the quality and genericity of GPT-4V’s capabilities, its supported inputs and working modes, and the effective ways to prompt the model. Researchers curate and organize a collection of carefully designed qualitative samples spanning a variety of domains and tasks. Observations from these samples demonstrate that GPT-4V’s unprecedented ability in processing arbitrarily interleaved multimodal inputs and the genericity of its capabilities together make GPT-4V a powerful multimodal generalist system. Furthermore, GPT-4V’s unique capability of understanding visual markers drawn on input images can give rise to new human-computer interaction methods such as visual referring prompting.
@@ -44,7 +44,9 @@ I mainly focuses more on Generative AI, LLMs and the related, so may miss import
   11.  5 Oct, researchers from Microsoft and UWM published a [paper](https://browse.arxiv.org/pdf/2310.03744.pdf) “Improved Baselines with Visual Instruction Tuning”. The research shows that the fully-connected vision-language cross-modal connector in LLaVA is surprisingly powerful and data-efficient. With simple modifications to LLaVA, namely, using CLIP-ViT-L-336px with an MLP projection and adding academic-task-oriented VQA data with simple response formatting prompts, researchers establish stronger baselines that achieve state-of-the-art across 11 benchmarks. The final 13B checkpoint uses merely 1.2M publicly available data, and finishes full training in ∼1 day on a single 8-A100 node.
 
 
+
 **1 Oct 2023**
+
 
 1.	25 Sep, OpenAI enhanced the capability of GPT-4. According to a [blog of OpenAI](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak), they are beginning to roll out new voice and image capabilities in ChatGPT. They offer a new, more intuitive type of interface by allowing you to have a voice conversation or show ChatGPT what you’re talking about.
 
