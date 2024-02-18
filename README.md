@@ -5,7 +5,7 @@ I mainly focuses more on Generative AI, LLMs and the related, so may miss import
 NOTE: I may miss some News/articles/papers for the current week. I will append the missed news 
 in current week. I will then put the news to its proper chronological position in next week.
 
-**17 Feb 2024**
+**18 Feb 2024**
 
 1.	***OpenAI's Sora: Text-to-Video AI Model<br>
 Released on Feb 15, Sora is a text-to-video AI model by OpenAI that generates minute-long realistic scenes from textual prompts, maintaining visual quality and user adherence. Sora uses a diffusion model and transformer architecture, akin to GPT models, with a deep understanding of language for accurate interpretation. It excels in creating complex scenes but may struggle with physics simulation, spatial details, and precise event descriptions.
