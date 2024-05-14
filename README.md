@@ -1,4 +1,4 @@
-# AI-News
+# Weekly AI-News
 Welcome to the Weekly-AI-news!
 I mainly focuses more on Generative AI, LLMs and the related, so may miss import AI news in other areas. <br><br>
 ***12 May 2024***
